@@ -115,7 +115,7 @@ FuelSense/
 └── app.json
 ```
 
-
+##Output (screeshots has been uploaded via word file)
 
 ## 👩‍💻 Author
 
